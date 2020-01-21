@@ -26,3 +26,12 @@ There is no purpose in mind when analyzing the data, the idea was to see if we c
 3. Does the amount differ between branches and do other branches have higher order means?
 
 <b>My findings</b>
+
+Time:
+Based on the analyses done on the data, time showed some trends that can be expanded on. When palcing the orders in a normilized distrubution, we can see that most orders are within 1 stdev of the mean, but when the end of the month appouches they jump above the 1 stdev. The only way we can exaplin this is that salarries get deposited after the 20th of month for all companies in Kuwait. 
+
+The other peaks and valleys we see are the weekends and start of the week. Again on the weekends, the chain start getting an uptick on his orders.
+
+Below the images speaks for itself. 
+![orders](images/date_time_april_orders_by_month.png)
+
