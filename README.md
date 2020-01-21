@@ -38,6 +38,11 @@ Below the images speaks for itself.
 
 <b>Kuwait Area's in relation to the resturant chain:</b>
 
+Taking another perspective of the chains orders by area's in Kuwait, we foudn that some area differs completey with orther. This perspective also helped in seeying how the chain should place new branches to better address the areas. The analysis also showed that some branches are working overtime and others relativly less.
+Two branches of the chain also seem to be taking most of the orders, which will surley need further analyses, to see if these branches are facing and misshaps or mistakes in the orders due to the volume. 
+![order_by_area](images/order count by area april 2018_2)
+
+
 
 
 
