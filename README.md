@@ -49,7 +49,7 @@ The data when analysed from a statical perspective, new information could be fou
 
 <b>Acknowledgments and thanks</b>
 Thanks for the ETL team at the restaurant chain for providing the data.
-
+Disclaimer, the name of the restaurant can’t be provided due to privacy issues.
 
 
 
